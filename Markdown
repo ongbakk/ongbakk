@@ -1,1 +1,3 @@
-I learned about the GitHub Flow. This includes Repos, cloning, commiting/pushing, branches, and pull requests 
+I learned about the GitHub Flow. This includes Repos, cloning, commiting/pushing, branches, and pull requests
+
+This part is only because of the tutorial and to let you know I have finished the course
